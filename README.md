@@ -8,7 +8,7 @@
 2) Go into the newly created folder.  
 `cd gulp-sass-livereload-bootstrap-boilerplate`
 
-3) Remove all Git stuff (since you'll want to make this your own). 
+3) Remove all Git stuff (since you'll want to make this your own).  
 `rm -rf .git` 
 
 4) Install node modules and bower components.  
