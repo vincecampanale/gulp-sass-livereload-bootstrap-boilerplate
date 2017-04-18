@@ -6,7 +6,7 @@
 `git clone git@github.com:vincecampanale/gulp-sass-livereload-bootstrap-boilerplate.git`
 
 2) Go into the newly created folder.  
-`cd gulp-sass-livereload-bootstrap-boilerplate.git`
+`cd gulp-sass-livereload-bootstrap-boilerplate`
 
 3) Remove all Git stuff (since you'll want to make this your own). 
 `rm -rf .git` 
